@@ -1,1 +1,2 @@
 Whole github can be automated
+Hi it can be done
